@@ -1,6 +1,6 @@
 <!-- INTRODUCAO -->
-<img src="./assets/Banner.png"/>
-<h1 style="font-weight: bold; font-style: italic;" align="center">Olá! Eu me chamo Nathan Cruz!<br><br></h1>
+<img src="./assets/githubanner.png"/>
+<!-- <h1 style="font-weight: bold; font-style: italic;" align="center">Olá! Eu me chamo Nathan Cruz!<br><br></h1> -->
 
 <!-- MENSSAGEM ANIMADA -->
 <h1 align="center">
@@ -10,6 +10,7 @@
 </h1>
 
 <!-- BOTOES -->
+
 <a href="https://linktr.ee/nathan_cruz"><img src="https://img.shields.io/badge/Linktree-ffffff?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=black&color=blue"></a>
 <a href=""><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffffff?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=black&color=brown" ></a>
 
@@ -22,7 +23,6 @@
 </div>
 
 <br>
-
 
 <!-- AREA DE ESTATISTICA E STATUS -->
 
