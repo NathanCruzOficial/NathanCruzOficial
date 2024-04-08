@@ -1,5 +1,6 @@
 <!-- INTRODUCAO -->
-<h1 style="font-weight: bold; font-style: italic;" align="center">Olá! Eu me chamo Nathan Cruz!</h1>
+<img src="./assets/Banner.png"/>
+<h1 style="font-weight: bold; font-style: italic;" align="center">Olá! Eu me chamo Nathan Cruz!<br><br></h1>
 
 <!-- MENSSAGEM ANIMADA -->
 <h1 align="center">
@@ -9,7 +10,8 @@
 </h1>
 
 <!-- BOTOES -->
-<a href="https://linktr.ee/nathan_cruz"><img src="https://img.shields.io/badge/Linktree-ffffff?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=black&color=blue" ></a>
+<a href="https://linktr.ee/nathan_cruz"><img src="https://img.shields.io/badge/Linktree-ffffff?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=black&color=blue"></a>
+<a href=""><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffffff?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=black&color=brown" ></a>
 
 <!-- ICONES DAS LINGUAGENS QUE EU USO -->
 <div align="center" style="display: inline_block"><br>
@@ -26,9 +28,9 @@
 
 <div align=center>
   <!-- NOTA TOTAL -->
-  <img whidth=100 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanCruzOficial&show_icons=true&theme=react&hide_border=true" />
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanCruzOficial&show_icons=true&theme=react&hide_border=true" />
   <!-- LINGUAGENS MAIS USADAS -->
-  <img whidth=100 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanCruzOficial&theme=react&hide_border=true" />
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanCruzOficial&theme=react&hide_border=true" />
 </div>
 
 <div align=center>
