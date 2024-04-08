@@ -1,5 +1,5 @@
 <!-- INTRODUCAO -->
-<img src="./assets/githubanner.png"/>
+<img style="height:auto;" src="./assets/githubanner.png"/>
 <!-- <h1 style="font-weight: bold; font-style: italic;" align="center">Olá! Eu me chamo Nathan Cruz!<br><br></h1> -->
 
 <!-- MENSSAGEM ANIMADA -->
