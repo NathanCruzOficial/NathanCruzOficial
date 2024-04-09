@@ -1,11 +1,10 @@
 <!-- INTRODUCAO -->
 <img style="width:100%;" src="./assets/githubanner.png"/>
-<!-- <h1 style="font-weight: bold; font-style: italic;" align="center">Olá! Eu me chamo Nathan Cruz!<br><br></h1> -->
 
 <!-- MENSSAGEM ANIMADA -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Bem-Vindo!;Tudo+bem+com+voc%C3%AA%3F;%C3%89+bom+te+ver+por+aqui!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=30&duration=3000&pause=1000&color=blue&center=true&random=false&width=435&lines=Bem-Vindo!;Tudo+bem+com+voc%C3%AA%3F;%C3%89+bom+te+ver+por+aqui!" alt="Typing SVG" />
   </a>
 </h1>
 
