@@ -32,9 +32,9 @@
 > 🏆 Estatísticas:
 <div align=center>
   <!-- NOTA TOTAL -->
-  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=NathanCruzOficial&show_icons=true&theme=react&hide_border=true" />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanCruzOficial&show_icons=true&theme=react&hide_border=true" />
   <!-- LINGUAGENS MAIS USADAS -->
-  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanCruzOficial&theme=react&hide_border=true" />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanCruzOficial&theme=react&hide_border=true&card_width=500" />
 </div><br>
 
 > 🔥 Perseverança:
