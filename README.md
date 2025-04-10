@@ -1,6 +1,3 @@
-<!-- INTRODUCAO -->
-# 🧑🏻‍💻 Nathan Cruz
-
 <!-- MENSSAGEM ANIMADA -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,6 +5,8 @@
   </a>
 </h1>
 
+<!-- INTRODUCAO -->
+# 🧑🏻‍💻 Nathan Cruz
 **`Analista e Desenvolvedor de Sistemas`**
 
 👋 Olá! Seja bem-vindo ao meu cantinho do GitHub.
