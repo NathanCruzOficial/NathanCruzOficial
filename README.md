@@ -1,8 +1,6 @@
 <!-- MENSSAGEM ANIMADA -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=30&duration=3000&pause=1000&color=blue&center=true&random=false&width=435&lines=Bem-Vindo!;Tudo+bem+com+voc%C3%AA%3F;%C3%89+bom+te+ver+por+aqui!" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2500&pause=5000&color=17A3EB&center=true&random=true&width=435&lines=Bem-Vindo!+%E2%9C%8C%EF%B8%8F;Gosta+de+Caf%C3%A9%3F+%E2%98%95%F0%9F%AB%A0;Bom+te+ver+por+aqui!+%F0%9F%98%81;Tudo+bem+com+voc%C3%AA%3F+%F0%9F%98%89;Olha+o+que+eu+fiz!+%F0%9F%99%83;Hello+World!+%F0%9F%91%BE;Game+Start!+%F0%9F%8E%AE;Gostou%3F+D%C3%A1+uma+estrelinha!+%E2%AD%90;print(%22I'm+a+dev%22)+%E2%9A%99%EF%B8%8F;Caf%C3%A9eeeee.....+%F0%9F%AB%A0" alt="Typing SVG" /></a>
 </h1>
 
 <!-- INTRODUCAO -->
