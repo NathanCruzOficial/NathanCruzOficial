@@ -8,7 +8,7 @@
 **`Analista e Desenvolvedor de Sistemas`**
 
 👋 Olá! Seja bem-vindo ao meu cantinho do GitHub.
-Sou apaixonado por tecnologia, estou me formando em Análise e Desenvolvimento de Sistemas e focado em evoluir cada vez mais como programador.
+Sou apaixonado por tecnologia, formando em Análise e Desenvolvimento de Sistemas e focado em evoluir cada vez mais com criação de projetos.
 Gosto de resolver problemas com código e de criar soluções práticas.
 Aqui você vai encontrar um pouco da minha jornada, aprendizados e projetos — sempre com curiosidade, dedicação e vontade de crescer.
 
