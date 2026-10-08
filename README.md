@@ -1,49 +1,65 @@
-<!-- MENSSAGEM ANIMADA -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2500&pause=5000&color=17A3EB&center=true&random=true&width=435&lines=Bem-Vindo!+%E2%9C%8C%EF%B8%8F;Gosta+de+Caf%C3%A9%3F+%E2%98%95%F0%9F%AB%A0;Bom+te+ver+por+aqui!+%F0%9F%98%81;Tudo+bem+com+voc%C3%AA%3F+%F0%9F%98%89;Olha+o+que+eu+fiz!+%F0%9F%99%83;Hello+World!+%F0%9F%91%BE;Game+Start!+%F0%9F%8E%AE;Gostou%3F+D%C3%A1+uma+estrelinha!+%E2%AD%90;print(%22I'm+a+dev%22)+%E2%9A%99%EF%B8%8F;Caf%C3%A9eeeee.....+%F0%9F%AB%A0" alt="Typing SVG" /></a>
-</h1>
+# Nathan Cruz
+### Analista e Desenvolvedor de Sistemas | Python • Flask • SQL
 
-<!-- INTRODUCAO -->
-# 🧑🏻‍💻 Nathan Cruz
-**`Analista e Desenvolvedor de Sistemas`**
+Desenvolvedor de sistemas com formação em **Análise e Desenvolvimento de Sistemas** e foco na criação de soluções práticas para problemas reais. Tenho interesse especial em automação de processos, aplicações web e desktop, organização de dados e desenvolvimento de ferramentas que simplifiquem rotinas.
 
-👋 Olá! Seja bem-vindo ao meu cantinho do GitHub.
-Sou apaixonado por tecnologia, formando em Análise e Desenvolvimento de Sistemas e focado em evoluir cada vez mais com criação de projetos.
-Gosto de resolver problemas com código e de criar soluções práticas.
-Aqui você vai encontrar um pouco da minha jornada, aprendizados e projetos — sempre com curiosidade, dedicação e vontade de crescer.
+Gosto de acompanhar o projeto além do código: entender a necessidade, estruturar a solução, pensar na experiência de uso e cuidar de aspectos como manutenção, documentação e distribuição.
 
-Vamos trocar uma ideia? 🚀
+## Sobre mim
 
+- Desenvolvo aplicações principalmente com **Python**, **Flask** e **SQLAlchemy**.
+- Tenho experiência prática com bancos de dados relacionais, especialmente **SQLite**, e fundamentos de SQL.
+- Já trabalhei em projetos com autenticação e fluxos de cadastro, relatórios para impressão, integração com webcam, empacotamento para Windows e mecanismos de atualização.
+- Estudo continuamente boas práticas de arquitetura, testes automatizados, segurança e automação de entregas.
+- Também exploro aplicações de inteligência artificial para resolver problemas específicos.
 
->## 📖 Me conheça Melhor:
-<div align="left">
-<a href="https://linktr.ee/nathan_cruz"><img src="https://img.shields.io/badge/Linktree-ffffff?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=black&color=blue"></a>
-<a href=""><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffffff?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=black&color=brown" ></a>
-</div><br>
+## Tecnologias e ferramentas
 
+**Uso em projetos:**  
+Python · Flask · SQLAlchemy · SQLite · SQL · HTML · CSS · JavaScript · Bootstrap · Git · GitHub
 
->## 💻 Linguagens e Teconologias:
-<div align="center" style="display: inline_block">
-  <img align="left" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="left" title="Python3" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" title="Java" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="left" title="Flask" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-          
-</div><br><br>
+**Em evolução:**  
+React · FastAPI · APIs REST · testes automatizados · CI/CD
 
+## Projetos em destaque
 
->## 🏆 Estatísticas: 
-<div align="center" style="width: 100%; height: 248px ;">
-  <img  align="left" style=" width: 65% ;padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=nathancruzoficial&show_icons=true&theme=react&hide_border=true" />
-  <img  align="left" style="width: 30% ;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathancruzoficial&theme=react&hide_border=true&locale=pt-br&custom_title=Tecnologias&langs_count=9&card_width=400px" />
-</div>
+### SISPORT — Sistema de Controle de Portaria
+Aplicação para registro e acompanhamento de visitantes, com fluxo de cadastro guiado, registro de entrada e saída, captura de fotografia e relatórios A4. O projeto também explora migrações de banco de dados, logs, empacotamento e atualização da aplicação no Windows.
 
->## 🔥 Perseverança:
-<div align=center>
- <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img align="center" width=50% src="https://streak-stats.demolab.com/?user=NathanCruzOficial&theme=react&hide_border=true" />
- </a>
-</div>
+[Ver repositório](https://github.com/NathanCruzOficial/SISPORT)
+
+### Dashboard BDA
+Projeto voltado à organização e visualização de informações em um painel, com configuração da aplicação e suporte a banco de dados.
+
+[Ver repositório](https://github.com/NathanCruzOficial/dashboard_bda)
+
+### Gerador de Contratos
+Projeto de automação documental com foco na geração de contratos a partir de modelos e dados preenchidos.
+
+[Ver repositório](https://github.com/NathanCruzOficial/Gerar-Contrato)
+
+### GenNoGU — Gerador de Nomes de Guerra
+Pequena aplicação desktop criada para gerar nomes de guerra, explorando também a ideia de distribuição de versões por meio de releases.
+
+[Ver repositório](https://github.com/NathanCruzOficial/GenNoGU)
+
+### Verbum — Assistente de Estudos Bíblicos
+Experimento de aplicação de IA generativa para ajudar usuários a explorar versículos por sentimentos, temas e perguntas, desenvolvido durante a Imersão IA da Alura com o Google.
+
+[Ver repositório](https://github.com/NathanCruzOficial/Projeto_Imersao_IA_AluraGoogle)
+
+## Como penso desenvolvimento
+
+- **Resolver o problema certo:** entender a necessidade antes de escolher a tecnologia.
+- **Manter o código sustentável:** buscar organização, clareza e separação de responsabilidades.
+- **Automatizar tarefas repetitivas:** transformar processos manuais em ferramentas úteis.
+- **Aprender construindo:** testar ideias, documentar decisões e evoluir a cada projeto.
+
+## Contato
+
+- **GitHub:** [NathanCruzOficial](https://github.com/NathanCruzOficial)
+- **Linktree:** [linktr.ee/nathan_cruz](https://linktr.ee/nathan_cruz)
+
+---
+
+*Este perfil reúne projetos práticos, experimentos e estudos aplicados. Os repositórios podem estar em diferentes estágios de desenvolvimento.*
